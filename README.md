@@ -1,4 +1,3 @@
-# KoinX — Tax Loss Harvesting Dashboard
 Practice smarter tax planning. Simulate harvesting. See the savings before you make a move.
 
 ## 🚀 Live Demo
@@ -40,16 +39,16 @@ I built this to make that entire process interactive and real-time. Select a hol
 ## Screenshots
 
 ### Login Page
-![Login]()
+![Login](https://github.com/user-attachments/assets/e2adc033-b6a9-4077-86bc-f79ef651ffe8)
 
 ### Tax Loss Harvesting Dashboard
-![Dashboard](./screenshots/dashboard.png)
+![Dashboard](https://github.com/user-attachments/assets/8b139987-7738-43f1-ba11-9e2c05b8071d)
 
 ### Holdings — Part 1
-![Holdings 1](./screenshots/holdings-1.png)
+![Holdings 1](https://github.com/user-attachments/assets/c7c6eff8-8204-4b67-8d6c-57786fce8a0d)
 
 ### Holdings — Part 2
-![Holdings 2](./screenshots/holdings-2.png)
+![Holdings 2](https://github.com/user-attachments/assets/4eaf6fb1-e2f1-4e7d-aaa3-bf5d4a311112)
 
 ---
 
