@@ -8,7 +8,7 @@ No setup needed. Sign in with Google, and your portfolio simulation loads instan
 
 ## Demo Video
 
-> *(Upload your demo video here — paste the GitHub video URL once uploaded)*
+> https://github.com/user-attachments/assets/057b5411-94a6-4550-9ad4-c17529bc46c8
 
 ---
 
@@ -40,7 +40,7 @@ I built this to make that entire process interactive and real-time. Select a hol
 ## Screenshots
 
 ### Login Page
-![Login](./screenshots/login.png)
+![Login]()
 
 ### Tax Loss Harvesting Dashboard
 ![Dashboard](./screenshots/dashboard.png)
